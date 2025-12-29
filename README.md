@@ -1,5 +1,6 @@
 # income-data-analysis
-This project compares students expected incomes with real world earnings data to highlight gaps between expectations and actual income outcomes.
+
+I created this project to explore how students expected incomes compare to real-world earnings data. Many students have a general idea of what they think they will earn after graduation, but those expectations do not always match actual income statistics. By visualizing and analyzing this data, I wanted to highlight the gap between expectations and reality and better understand how realistic these income assumptions are.
 
 This project uses Python and Matplotlib for data visualization.
 
