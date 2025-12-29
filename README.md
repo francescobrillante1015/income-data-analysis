@@ -17,6 +17,6 @@ Survey-Based Analysis (income_analysis_survey.py):
 
 This version analyzes income expectation data collected from Adelphi University students through a Google Form. The responses were anonymized and aggregated before analysis and are used to compare student expectations with real-world earnings data.
 
-Interactive Analysis (income_analysis_interactive.py):
+Interactive Analysis (income_analysis.py):
 
 This version allows users to input their own expected income values and compare them to real-world earnings data through generated visualizations.
